@@ -1,3 +1,3 @@
 # Toy App
 
-This is a rails project. 
+This is a rails project!
